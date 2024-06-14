@@ -7,10 +7,10 @@ O objetivo será criar uma arquitetura básica para o sistema, utilizando concei
 
 **Sua tarefa inclui:**
 
-- Identificar os tipos de materiais de leitura a serem gerenciados.
-- Criar uma interface simples para representar a estrutura básica de um material de leitura.
-- Desenvolver classes para cada tipo de material, implementando a interface definida.
-- Adicionar métodos nas classes para exibir as informações.
+- Identificar os tipos de materiais de leitura a serem gerenciados;
+- Criar uma interface simples para representar a estrutura básica de um material de leitura;
+- Desenvolver classes para cada tipo de material, implementando a interface definida;
+- Adicionar métodos nas classes para exibir as informações;
 - Testar as classes criadas criando instâncias de objetos e invocando os métodos implementados.
 
 **Passo a Passo:**
@@ -23,7 +23,7 @@ O objetivo será criar uma arquitetura básica para o sistema, utilizando concei
 
 ```lua
           +-------------------------+
-          |    BibliotecaDigital    |
+          |    MaterialLeitura      |
           +-------------------------+
           | - titulo: string        |
           | - autor: string         |
